@@ -79,7 +79,7 @@ const App = () => {
           <div className="absolute inset-0 z-0">
             <img 
               src="https://i.ibb.co/rCL58Mk/image.png" 
-              alt="Baccalà Market Marcon" 
+              alt="Baccalà Belmarket Marcon" 
               className="w-full h-full object-cover opacity-30"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-brand-900 via-brand-900/60 to-transparent"></div>
