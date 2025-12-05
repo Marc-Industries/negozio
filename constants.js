@@ -1,7 +1,7 @@
 
 // CONFIGURAZIONE TELEGRAM
 export const TELEGRAM_BOT_TOKEN = '8518774500:AAFGYZB4M14oEqr3HxEQNltohDUzFrzcJyI'; 
-export const TELEGRAM_CHAT_ID = '794457635';
+export const TELEGRAM_CHAT_ID = '929092833';
 
 // Configurazione Porzioni
 export const GRAMS_PER_PERSON = 250; // Valore di default modificabile
