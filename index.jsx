@@ -705,7 +705,7 @@ const App = () => {
               <ShoppingBasket size={20} />
             </div>
             <div>
-              <h1 className="font-serif font-bold text-xl text-brand-900 leading-none">Market Marcon</h1>
+              <h1 className="font-serif font-bold text-xl text-brand-900 leading-none">Belmarket Francesco Marcon</h1>
               <p className="text-xs text-brand-500 font-medium tracking-wider uppercase mt-0.5">Mini Market</p>
             </div>
           </div>
@@ -750,7 +750,7 @@ const App = () => {
           <div className="absolute inset-0 z-0">
             <img 
               src="https://i.ibb.co/rCL58Mk/image.png" 
-              alt="Baccalà Market Marcon" 
+              alt="Baccalà Belmarket Francesco Marcon" 
               className="w-full h-full object-cover opacity-30"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-brand-900 via-brand-900/60 to-transparent"></div>
